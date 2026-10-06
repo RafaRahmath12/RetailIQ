@@ -6,6 +6,10 @@ An end-to-end **Data Analytics project** analyzing customer shopping behavior us
 
 The project analyzes customer demographics, purchasing patterns, product performance, discounts, subscriptions, and spending behavior to generate actionable business insights.
 
+## 📊 Dashboard Preview
+
+![RetailIQ Dashboard](Retail.iq.png)
+
 ## 🛠️ Tools Used
 
 * **Python** – Data cleaning & EDA
